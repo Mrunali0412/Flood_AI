@@ -11,7 +11,7 @@ import folium
 from streamlit_folium import folium_static
 import random
 from sklearn.preprocessing import StandardScaler
-import ee
+
 import rasterio
 from pyproj import Transformer
 import osmnx as ox
@@ -21,9 +21,6 @@ import datetime
 from geopy.distance import geodesic
 import requests
 
-# Authenticate and initialize Earth Engine
-ee.Authenticate()
-ee.Initialize(project='ee-mrdhruvpurigoswami')  # Replace with your actual project ID
 
 # Load the dataset
 @st.cache_data
