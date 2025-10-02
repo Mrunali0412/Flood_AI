@@ -54,23 +54,31 @@ FloodAI 2024 is an integrated AI and physics-based flood prediction system desig
 ### 🧠 AI/ML Modeling
 
 - **Random Forest Model** 🌳
-- **CNN Network for GIS** 🛰️
 - **Response Strategy** 🚨
 - **Insurance Planning** 📈
 
 ## 🎯 Benefits
 
 ### 📊 Dashboard Flood Prediction
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/818c1781-8403-4725-a950-1bd42302f730" />
+
 
 #### Identify Flooded Areas on Map 🗺️
 
-With the help of GIS data, FloodAI predicts areas where floods might happen and locates them.
+FloodAI predicts areas where floods might happen and locates them.
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/9f0fd9f5-3357-4a2d-bdbf-6cea83553b1f" />
+
+
 
 #### Identify Nearest Shelter or Hospital Route 🏥
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/365fc1d6-b9cf-4994-ac6d-a9cb97f65416" />
+
 
 If a flood occurs, FloodAI identifies the nearest and safest resources like shelters or hospitals with optimal paths.
 
 #### Identify Safe Places (During Flood) 🏞️
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/33594a00-c22f-4724-9ac3-c7d3f568f2f7" />
+
 
 Location points represent flooding areas. FloodAI identifies safe zones based on elevation data.
 
@@ -83,6 +91,8 @@ Location points represent flooding areas. FloodAI identifies safe zones based on
 - **High Premium** 🔴
 - **Normal Premium** 🟡
 - **Low Premium** 🟢
+
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/9af902b4-c821-44b3-b1da-94600a012c45" />
 
 FloodAI predicts the occurrence of floods after 5-10 years, forms clusters based on probability, and suggests appropriate insurance plans.
 
